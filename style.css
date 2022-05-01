@@ -1,0 +1,42 @@
+body{
+background-color: red;
+
+  
+}
+h2{
+    font-family:monospace;
+}
+.sushi:hover a{
+    opacity: 0.33;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+  }
+ 
+  .flex-container1 {
+    display: flex;
+    flex-direction: column;
+    background-color: green;
+  }
+  .flex-container2 {
+    display: flex;
+    flex-direction: column;
+    background-color: purple;
+  }
+  .flex-container3 {
+    display: flex;
+    flex-direction: column;
+    background-color: yellow;
+  }
+  .flex-container4 {
+    display: flex;
+    flex-direction: column;
+    background-color:aqua;
+  }
+  .flex-container5 {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+  }
